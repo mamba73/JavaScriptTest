@@ -1,0 +1,14 @@
+// TEST DRIVEN DEVELOPMENT
+// https://jestjs.io/
+
+
+
+$ npm init
+... enter...
+// instaliranje jest framework paketa
+$ npm i --save-dev jest
+
+
+
+
+
